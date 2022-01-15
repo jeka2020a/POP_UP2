@@ -15,7 +15,6 @@ body {
     bottom: 60px;
     margin-top: 16px;
 }
-
 .show__pop-up {
     max-width: 100%;
 }
@@ -160,13 +159,6 @@ body {
 .textbox2-line5 , .textbox4-line2 {
     width: 93px;
 }
-
-
-
-
-
-
-
 .pop-up__about__parameters-buildings__textbox2 {
     align-items: right;
 }
